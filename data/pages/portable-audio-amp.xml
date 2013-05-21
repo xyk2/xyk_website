@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 May 2013 23:07:00 +0800</pubDate><title><![CDATA[Portable Audio Amp]]></title><url><![CDATA[portable-audio-amp]]></url><meta><![CDATA[]]></meta><metad><![CDATA[Breaking apart an old pair of speakers and putting them into a project box. Very simple; just for fun.]]></metad><menu><![CDATA[portable audio amp]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[projects]]></parent><content><![CDATA[&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;img alt=&quot;Completed audio amp&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/projects/audio_amp/audio_amp_cover.jpg&quot; style=&quot;width: 550px; height: 427px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	I wanted something louder than a mini-external speaker, so I disassembled my old speakers and put it into a project box with a battery power supply. In addition to the portable battery mod, I added RCA jacks that could be used as inputs or pass-through connectors.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;img alt=&quot;Closeup of amp speakers and cutout in box.&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/projects/audio_amp/audio_amp_speakers.jpg&quot; style=&quot;width: 400px; height: 300px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	The hardest part was cutting the holes for the speakers. This project box is a lot thicker than the Radioshack one I used in the &lt;a href=&quot;http://xy-kao.com/projects/turing-alarm/&quot;&gt;turing alarm&lt;/a&gt;, so my nibbling tool didnt work. A tip for cutting project boxes with a dremel: cut a few millimeters from the actual line with a cutoff wheel, then sand it and heat treat it.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;img alt=&quot;Amp internals.&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/projects/audio_amp/audio_amp_internal.jpg&quot; style=&quot;width: 500px; height: 375px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	The original volume adjustment pot was desoldered then mounted on the box. The original audio cable was split between a 3.5mm jack and a RCA jack, which is useful because one of them can be used as a pass-through connector.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;img alt=&quot;Amp internals + battery.&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/projects/audio_amp/audio_amp_internals.jpg&quot; style=&quot;width: 500px; height: 277px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	The original speaker was powered from 5V USB, so I used a 7805 to regulate power from five AA batteries.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Full gallery with photos &lt;a href=&quot;https://picasaweb.google.com/100717066473058120846/PortableAudioAmp?authuser=0&amp;amp;feat=directlink&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[xiaoyangkao2]]></author><creation_date><![CDATA[June 6, 2012]]></creation_date><creDate>Sat, 18 May 2013 23:07:00 +0800</creDate><user><![CDATA[xiaoyangkao2]]></user></item>

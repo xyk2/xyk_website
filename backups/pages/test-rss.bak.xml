@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 13 May 2013 23:57:15 +0800</pubDate><title><![CDATA[test rss]]></title><url><![CDATA[test-rss]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[test rss]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;
+	(% searchrss name:news title:&quot;News&quot; tags:projects numWords:30 %)&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[xiaoyangkao2]]></author><creation_date><![CDATA[month, day, year]]></creation_date><creDate>Mon, 13 May 2013 23:57:15 +0800</creDate><user><![CDATA[xiaoyangkao2]]></user></item>

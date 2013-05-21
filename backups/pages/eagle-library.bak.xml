@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 May 2013 23:25:08 +0800</pubDate><title><![CDATA[Eagle Library for Custom Footprints]]></title><url><![CDATA[eagle-library]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[eagle library]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[sandbox]]></parent><content><![CDATA[&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;img alt=&quot;PCB from remote weather logger. &quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/sandbox/eagle_library/eagle_library_cover.png&quot; style=&quot;width: 700px; height: 428px;&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Eagle is the CAD package I use for my schematics and pcbs. Their libraries are probably the most comprehensive of all the free packages out there, but sometimes there are part layouts I need that aren&#039;t available.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	This library contains parts that I have used in my projects. Most of them are rather specific and obscure components (like the MBI5026), but i&#039;m going to post it anyway because it might save someone else time.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;
+	parts&lt;/h2&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;strong&gt;74HC154-DIP24&lt;br /&gt;
+	ARDUINO_PRO_MINI_OUTLINE&lt;br /&gt;
+	ATMEGA328-TQFP32-08&lt;br /&gt;
+	CR2032-HOLDER&lt;br /&gt;
+	DS1307-SOIC8&lt;br /&gt;
+	J ST-2.54 MM&lt;br /&gt;
+	LED_STRIP&lt;br /&gt;
+	LT1962EM58&lt;br /&gt;
+	LTC4054-4.2 SOT23-5&lt;br /&gt;
+	MBI5026-DIP24&lt;br /&gt;
+	MOMENTARYSWTTCH&lt;br /&gt;
+	SERIAL_LCD_16X2&lt;/strong&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;
+	download&lt;/h2&gt;
+&lt;p&gt;
+	Download XYKlib.lbr on &lt;a href=&quot;https://github.com/xyk2/&quot;&gt;my github page&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;https://github.com/xyk2/XYKlib&quot;&gt;XYKlib.lbr&lt;/a&gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[xiaoyangkao2]]></author><creation_date><![CDATA[august 2, 2012]]></creation_date><creDate>Sat, 18 May 2013 23:25:08 +0800</creDate><user><![CDATA[xiaoyangkao2]]></user></item>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><desc><![CDATA[creation_date]]></desc><label><![CDATA[Creation Date (month, day, year)]]></label><type><![CDATA[text]]></type><value><![CDATA[month, day, year]]></value></item></channel>

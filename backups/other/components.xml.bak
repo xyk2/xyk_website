@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[home_news]]></title><slug>home_news</slug><value><![CDATA[&lt;?php
+ homepage_listing(&#039;virtual lane graphics for swimming&#039;, &#039;http://oldblog.xy-kao.com/projects/virtual-graphics-for-swimming/&#039;, &#039;february 16, 2013&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;decoding the daktronics omnisport 2000&#039;, &#039;http://oldblog.xy-kao.com/projects/decoding-daktronics-omnisport-2000/&#039;, &#039;january 8, 2013&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;batch resizing with irfanview&#039;, &#039;http://oldblog.xy-kao.com/sandbox/batch-resizing-with-irfanview/&#039;, &#039;january 6, 2013&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;repairing a daktronics scoreboard&#039;, &#039;http://oldblog.xy-kao.com/sandbox/repairing-a-daktronics-scoreboard/&#039;, &#039;january 4, 2013&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;reddit sort bookmarklets&#039;, &#039;http://oldblog.xy-kao.com/sandbox/reddit-sort-bookmarklets/&#039;, &#039;october 16, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;simple xml read/write&#039;, &#039;http://oldblog.xy-kao.com/sandbox/simple-xml-readwrite/&#039;, &#039;august 26, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;eagle library&#039;, &#039;http://oldblog.xy-kao.com/sandbox/eagle-library/&#039;, &#039;august 2, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;GIFcapture&#039;, &#039;http://oldblog.xy-kao.com/projects/gifcapture/&#039;, &#039;july 26, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;new computer build&#039;, &#039;http://oldblog.xy-kao.com/projects/new-computer-build/&#039;, &#039;july 17, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;remote weather data logger&#039;, &#039;http://oldblog.xy-kao.com/projects/remote-weather-data-logger/&#039;, &#039;june 16, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;laser cut project boxes&#039;, &#039;http://oldblog.xy-kao.com/sandbox/laser-cut-project-boxes/&#039;, &#039;june 10, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;replicating an object&#039;, &#039;http://oldblog.xy-kao.com/sandbox/replicating-an-object/&#039;, &#039;june 9, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;layer heights on the 3d printer&#039;, &#039;http://oldblog.xy-kao.com/sandbox/layer-heights-on-the-3d-printer/&#039;, &#039;june 6, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;unboxing the mosaic&#039;, &#039;http://oldblog.xy-kao.com/projects/unboxing-the-mosaic/&#039;, &#039;june 6, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;portable audio amp&#039;, &#039;http://oldblog.xy-kao.com/projects/portable-audio-amp/&#039;, &#039;june 6, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;controlling led matrices&#039;, &#039;http://oldblog.xy-kao.com/sandbox/led-matrix/&#039;, &#039;may 17, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;the turing alarm&#039;, &#039;http://oldblog.xy-kao.com/projects/turing-alarm/&#039;, &#039;april 28, 2012&#039;, &#039;projects&#039;);
+
+
+ ?&gt;]]></value></item><item><title><![CDATA[Sidebar]]></title><slug>sidebar</slug><value><![CDATA[&lt;li&gt;&lt;a href=&quot;&lt;?php get_site_url(); ?&gt;projects/&quot;&gt;projects&lt;/a&gt;&lt;/li&gt;
+	&lt;div id=&#039;subcategory&#039;&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/virtual-graphics-for-swimming/&quot;&gt;virtual lane graphics&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/decoding-daktronics-omnisport-2000/&quot;&gt;decoding timing signals&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/gifcapture/&quot;&gt;GIFcapture&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/new-computer-build/&quot;&gt;$700 computer build&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/portable-audio-amp/&quot;&gt;portable audio amp&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/turing-alarm/&quot;&gt;turing alarm&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/projects/&quot;&gt;more...&lt;/a&gt;&lt;/li&gt;
+	&lt;/div&gt;    &lt;li&gt;&lt;a href=&quot;&lt;?php get_site_url(); ?&gt;sandbox/&quot;&gt;sandbox&lt;/a&gt;&lt;/li&gt;
+	&lt;div id=&#039;subcategory&#039;&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/sandbox/repairing-a-daktronics-scoreboard/&quot;&gt;repairing a led scoreboard&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/sandbox/reddit-sort-bookmarklets/&quot;&gt;reddit bookmarklets&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/sandbox/simple-xml-readwrite/&quot;&gt;simple xml read/write&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/sandbox/eagle-library/&quot;&gt;eagle library&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://oldblog.xy-kao.com/sandbox/&quot;&gt;more...&lt;/a&gt;&lt;/li&gt;
+
+	&lt;/div&gt;
+&lt;li&gt;&lt;a href=&quot;&lt;?php get_site_url(); ?&gt;documentation/&quot;&gt;documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;&lt;?php get_site_url(); ?&gt;about/&quot;&gt;about&lt;/a&gt;&lt;/li&gt;]]></value></item><item><title><![CDATA[social_media]]></title><slug>social_media</slug><value><![CDATA[&lt;div style=&#039;margin-left: 18%;margin-top:20px; &#039;&gt;
+	&lt;a class=&#039;social_media&#039; id=&#039;google&#039; href=&quot;https://plus.google.com/u/0/100717066473058120846/plusones&quot;&gt;&lt;/a&gt;
+	&lt;a class=&#039;social_media&#039; id=&#039;twitter&#039; href=&quot;https://twitter.com/xiaoyangkao2&quot;&gt;&lt;/a&gt;
+	&lt;a class=&#039;social_media&#039; id=&#039;youtube&#039; href=&quot;http://youtube.com/xiaoyangkao2&quot;&gt;&lt;/a&gt;
+	&lt;a class=&#039;social_media&#039; id=&#039;reddit&#039; href=&quot;http://reddit.com/user/xiaoyangkao2&quot;&gt;&lt;/a&gt;
+
+&lt;/div&gt;]]></value></item></channel>

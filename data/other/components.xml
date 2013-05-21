@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[home_news]]></title><slug>home_news</slug><value><![CDATA[&lt;?php
+ homepage_listing(&#039;virtual lane graphics for swimming&#039;, &#039;http://localhost/projects/virtual-graphics-for-swimming/&#039;, &#039;february 16, 2013&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;decoding the daktronics omnisport 2000&#039;, &#039;http://localhost/projects/decoding-daktronics-omnisport-2000/&#039;, &#039;january 8, 2013&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;batch resizing with irfanview&#039;, &#039;http://localhost/sandbox/batch-resizing-with-irfanview/&#039;, &#039;january 6, 2013&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;repairing a daktronics scoreboard&#039;, &#039;http://localhost/sandbox/repairing-a-daktronics-scoreboard/&#039;, &#039;january 4, 2013&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;reddit sort bookmarklets&#039;, &#039;http://localhost/sandbox/reddit-sort-bookmarklets/&#039;, &#039;october 16, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;simple xml read/write&#039;, &#039;http://localhost/sandbox/simple-xml-readwrite/&#039;, &#039;august 26, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;eagle library&#039;, &#039;http://localhost/sandbox/eagle-library/&#039;, &#039;august 2, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;GIFcapture&#039;, &#039;http://localhost/projects/gifcapture/&#039;, &#039;july 26, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;new computer build&#039;, &#039;http://localhost/projects/new-computer-build/&#039;, &#039;july 17, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;remote weather data logger&#039;, &#039;http://localhost/projects/remote-weather-data-logger/&#039;, &#039;june 16, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;laser cut project boxes&#039;, &#039;http://localhost/sandbox/laser-cut-project-boxes/&#039;, &#039;june 10, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;replicating an object&#039;, &#039;http://localhost/sandbox/replicating-an-object/&#039;, &#039;june 9, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;layer heights on the 3d printer&#039;, &#039;http://localhost/sandbox/layer-heights-on-the-3d-printer/&#039;, &#039;june 6, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;unboxing the mosaic&#039;, &#039;http://localhost/projects/unboxing-the-mosaic/&#039;, &#039;june 6, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;portable audio amp&#039;, &#039;http://localhost/projects/portable-audio-amp/&#039;, &#039;june 6, 2012&#039;, &#039;projects&#039;);
+ homepage_listing(&#039;controlling led matrices&#039;, &#039;http://localhost/sandbox/led-matrix/&#039;, &#039;may 17, 2012&#039;, &#039;sandbox&#039;);
+ homepage_listing(&#039;the turing alarm&#039;, &#039;http://localhost/projects/turing-alarm/&#039;, &#039;april 28, 2012&#039;, &#039;projects&#039;);
+
+
+ ?&gt;]]></value></item></channel>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 May 2013 23:23:59 +0800</pubDate><title><![CDATA[Batch Resizing with IRFanView and Pythno]]></title><url><![CDATA[batch-resizing-with-irfanview]]></url><meta><![CDATA[]]></meta><metad><![CDATA[A quick python script to resize photos for web with IRFanView. ]]></metad><menu><![CDATA[batch resizing with irfanview]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[sandbox]]></parent><content><![CDATA[&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;img alt=&quot;Batch resizing with IRfanview&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/sandbox/batch_resizing_with_irfanview/header.png&quot; style=&quot;width: 700px; height: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	This is a script I use to quickly compress and resize my photos for the web. Edit the parameters, copy and paste it to the image directory, and run it. The script will create a &#039;/resized&#039; folder for all the processed photos.&amp;nbsp;&lt;/p&gt;
+&lt;pre style=&quot;color:#000000;background:#ffffff;max-width:100%;overflow-x:scroll;&quot;&gt;
+&lt;span style=&quot;color:#800000; font-weight:bold; &quot;&gt;
+import&lt;/span&gt; os
+
+IVIEW32_PATH &lt;span style=&quot;color:#808030; &quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color:#0000e6; &quot;&gt;&#039;C:\\Program Files (x86)\\IrfanView\\i_view32.exe&#039;&lt;/span&gt;
+SOURCE_FILETYPE &lt;span style=&quot;color:#808030; &quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color:#0000e6; &quot;&gt;&#039;jpg&#039;&lt;/span&gt;
+TARGET_FILETYPE &lt;span style=&quot;color:#808030; &quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color:#0000e6; &quot;&gt;&#039;jpg&#039;&lt;/span&gt;
+TARGET_WIDTH &lt;span style=&quot;color:#808030; &quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color:#008c00; &quot;&gt;1024&lt;/span&gt;
+TARGET_HEIGHT &lt;span style=&quot;color:#808030; &quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color:#008c00; &quot;&gt;768
+&lt;/span&gt;
+
+command &lt;span style=&quot;color:#808030; &quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color:#0000e6; &quot;&gt;&#039;&quot;%s&quot; &#039;&lt;/span&gt;&lt;span style=&quot;color:#808030; &quot;&gt;%&lt;/span&gt;IVIEW32_PATH &lt;span style=&quot;color:#808030; &quot;&gt;+&lt;/span&gt; os&lt;span style=&quot;color:#808030; &quot;&gt;.&lt;/span&gt;getcwd&lt;span style=&quot;color:#808030; &quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#808030; &quot;&gt;)&lt;/span&gt; &lt;span style=&quot;color:#808030; &quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color:#0000e6; &quot;&gt;r&quot;\\*.%s /resize=(%d,%d) /aspectratio /resample /convert=&quot;&lt;/span&gt;&lt;span style=&quot;color:#808030; &quot;&gt;%&lt;/span&gt;&lt;span style=&quot;color:#808030; &quot;&gt;(&lt;/span&gt;SOURCE_FILETYPE&lt;span style=&quot;color:#808030; &quot;&gt;,&lt;/span&gt;TARGET_WIDTH&lt;span style=&quot;color:#808030; &quot;&gt;,&lt;/span&gt;TARGET_HEIGHT&lt;span style=&quot;color:#808030; &quot;&gt;)&lt;/span&gt; &lt;span style=&quot;color:#808030; &quot;&gt;+&lt;/span&gt; os&lt;span style=&quot;color:#808030; &quot;&gt;.&lt;/span&gt;getcwd&lt;span style=&quot;color:#808030; &quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#808030; &quot;&gt;)&lt;/span&gt; &lt;span style=&quot;color:#808030; &quot;&gt;+&lt;/span&gt; &lt;span style=&quot;color:#0000e6; &quot;&gt;r&quot;\\resized\\*.%s&quot;&lt;/span&gt;&lt;span style=&quot;color:#808030; &quot;&gt;%&lt;/span&gt;TARGET_FILETYPE
+os&lt;span style=&quot;color:#808030; &quot;&gt;.&lt;/span&gt;system&lt;span style=&quot;color:#808030; &quot;&gt;(&lt;/span&gt;command&lt;span style=&quot;color:#808030; &quot;&gt;)
+&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Requires &lt;a href=&quot;http://www.irfanview.com/&quot;&gt;IrfanView&lt;/a&gt; and python.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;
+	&lt;span style=&quot;font-size:20px;&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/sandbox/batch_resizing_with_irfanview/application-python-file-icone-4144-96.png&quot; style=&quot;width: 40px; height: 40px; vertical-align: middle;&quot; /&gt;&amp;nbsp;&lt;a href=&quot;http://d30cz35xum7wy8.cloudfront.net/sandbox/batch_resizing_with_irfanview/irfanview_resize.py&quot;&gt;irfanview_resize.py&lt;/a&gt;&amp;nbsp;&lt;span style=&quot;font-size:12px;&quot;&gt;(380B)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[xiaoyangkao2]]></author><creation_date><![CDATA[January 6, 2013]]></creation_date><creDate>Sat, 18 May 2013 23:23:59 +0800</creDate><user><![CDATA[xiaoyangkao2]]></user></item>

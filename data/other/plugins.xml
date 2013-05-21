@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><plugin><![CDATA[i18n_customfields.php]]></plugin><enabled><![CDATA[true]]></enabled></item><item><plugin><![CDATA[s3_upload_sync.php]]></plugin><enabled><![CDATA[true]]></enabled></item><item><plugin><![CDATA[simplecache.php]]></plugin><enabled><![CDATA[true]]></enabled></item></channel>

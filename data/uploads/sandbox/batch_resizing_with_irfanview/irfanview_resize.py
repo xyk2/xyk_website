@@ -1,0 +1,1 @@
+import osIVIEW32_PATH = 'C:\Program Files (x86)\IrfanView\i_view32.exe'SOURCE_FILETYPE = 'jpg'TARGET_FILETYPE = 'jpg'TARGET_WIDTH = 1024TARGET_HEIGHT = 768command = '"%s" '%IVIEW32_PATH + os.getcwd() + r"\*.%s /resize=(%d,%d) /aspectratio /resample /convert="%(SOURCE_FILETYPE,TARGET_WIDTH,TARGET_HEIGHT) + os.getcwd() + r"\resized\*.%s"%TARGET_FILETYPEos.system(command)

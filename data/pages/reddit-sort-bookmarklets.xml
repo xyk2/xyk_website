@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Sat, 18 May 2013 23:32:04 +0800</pubDate><title><![CDATA[Reddit Sort Bookmarklets for Game Threads]]></title><url><![CDATA[reddit-sort-bookmarklets]]></url><meta><![CDATA[]]></meta><metad><![CDATA[Sort bookmarklets for reddit game threads. Sort by time to see new comments at the top.]]></metad><menu><![CDATA[reddit sort bookmarklets]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[sandbox]]></parent><content><![CDATA[&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://d30cz35xum7wy8.cloudfront.net/sandbox/reddit_bookmarklet/header.png&quot; style=&quot;width: 594px; height: 259px; border: 1px solid rgb(211, 211, 211); &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+	The default reddit sort functions apply to all posts you view, and that can get annoying when you are switching between the front-page and smaller, time-sensitive threads. These bookmarklets only apply the sorting to the current thread instead for everything like the dropdown on reddit does. Drag and drop them into your bookmarks bar and click on it when you are in a thread.&lt;/p&gt;
+&lt;p&gt;
+	Very useful in game threads.&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;javascript:window.location.search += &#039;?sort=new&#039;;&quot;&gt;reddit - sort by new&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;javascript:window.location.search += &#039;?sort=top&#039;;&quot;&gt;reddit - sort by top&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;javascript:window.location.search += &#039;?sort=old&#039;;&quot;&gt;reddit - sort by old&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;javascript:window.location.search += &#039;?sort=best&#039;;&quot;&gt;reddit - sort by best&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;javascript:window.location.search += &#039;?sort=hot&#039;;&quot;&gt;reddit - sort by hot&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center; &quot;&gt;
+	&lt;a href=&quot;javascript:window.location.search += &#039;?sort=controversial&#039;;&quot;&gt;reddit - sort by controversial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[xiaoyangkao2]]></author><creation_date><![CDATA[October, 16, 2012]]></creation_date><creDate>Sat, 18 May 2013 23:32:04 +0800</creDate><user><![CDATA[xiaoyangkao2]]></user></item>

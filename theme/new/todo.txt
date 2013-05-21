@@ -1,0 +1,42 @@
+Gzip/Caching:
+	Simple Cache
+	Enable Gzip in nginx.conf
+	s3cmd Cache-Control headers
+	
+Tuning NGINX
+	Reduce worker threads to # of cpu
+	VPS security
+
+Meta Tags
+	google analytics
+	humans.txt
+	robots.txt
+	meta author
+	meta xml
+	meta description
+	meta google-site-verification
+	meta robots
+	meta rss
+
+GETSIMPLE
+	CKEditor enter <p>
+	
+Feedburner
+Weekly status reports
+Server backup
+Alt text
+Meta description
+Capitalization
+
+
+NGINX
+php5-fpm
+php5-curl
+php5-gd
+vnstat
+SSH security
+s3cmd
+php config
+edit /admin/upload.php for MD5
+edit /admin/filebrowser.php for CDN linking
+Disable apache warning
