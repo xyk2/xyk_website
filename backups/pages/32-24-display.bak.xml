@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Sat, 23 Feb 2013 11:57:00 +0000</pubDate><title><![CDATA[32*24 display]]></title><url><![CDATA[32-24-display]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[32*24 display]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[projects]]></parent><content><![CDATA[&lt;p&gt;
-	This is an extension of &lt;a href=&quot;http://xy-kao.com/sandbox/led-matrix/&quot;&gt;controlling led matrices&lt;/a&gt;.&lt;br /&gt;
-	&lt;br /&gt;
-	The display is made of 12 matrices arranged in a 3:4 aspect ratio for a total of 768 LEDs. Like in the tutorial, the rows are controlled with 16-bit multiplexers and the columns with LED drivers, except that there are two of each.&lt;/p&gt;
-]]></content><private><![CDATA[]]></private><author><![CDATA[xiaoyangkao2]]></author><creation_date><![CDATA[]]></creation_date><creDate>Sat, 23 Feb 2013 11:57:00 +0000</creDate><user><![CDATA[xiaoyangkao2]]></user></item>
